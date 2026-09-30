@@ -1,0 +1,22 @@
+# Raw and processed datasets
+data/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated model files
+models/*.pkl
+models/*.joblib
+
+# Local environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
